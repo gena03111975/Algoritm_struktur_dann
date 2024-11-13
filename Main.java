@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         BinaryTree<Integer> tree = new BinaryTree<>();
 
         tree.add(6);
@@ -18,6 +17,5 @@ public class Main {
         tree.add(10);
 
         tree.print();
-
     }
 }
